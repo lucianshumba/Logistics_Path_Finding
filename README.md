@@ -1,5 +1,4 @@
 # Logistics_Path_Finding
-https://share.synthesia.io/c5980d6b-a55b-4179-bae8-b7ff82845e40 
 Graph analysis of the London Underground using Neo4j GDS — Dijkstra shortest paths, Betweenness Centrality, PageRank, and Louvain community detection on an 80-station property graph. Identifies structural bottlenecks, optimal routes, and network resilience under targeted station closures.
 # London Underground: Public Transit Pathfinding and Bottleneck Analysis
 ### Using Neo4j Graph Data Science (GDS)
@@ -245,7 +244,7 @@ After running all GDS sections, each Station node carries the following computed
 - Page, L. et al. (1999). The PageRank Citation Ranking: Bringing Order to the Web. Stanford InfoLab.
 
 ---
-
-## Author
-Lucia Shumba
+-Vedio presentation: https://share.synthesia.io/c5980d6b-a55b-4179-bae8-b7ff82845e40 
+## Authors
+Lucia Shumba, Alwyn Munatsi, Lance Midzi
 Graduate student project — Neo4j Graph Data Science certification track.
